@@ -1,0 +1,16 @@
+{
+  "name": "dorker-cli",
+  "version": "1.0.0",
+  "description": "Google dork query generator for ethical reconnaissance — generates ready-to-use search URLs across 10 categories.",
+  "type": "module",
+  "main": "dorker-cli.js",
+  "scripts": {
+    "start": "node dorker-cli.js"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0"
+  },
+  "keywords": ["osint", "google-dorks", "reconnaissance", "cli", "security", "dorking"],
+  "author": "tlkcexe",
+  "license": "MIT"
+}
